@@ -18,15 +18,11 @@ finally we have our loop that actually generates the password depending on the u
     
 ![alt text](assets/images/Screenshot%20(44).png)
 
-![alt text](assets\images/Screenshot%20(45).png)
-    
-![alt text](assets\images/Screenshot%20(46).png)
-      
-![alt text](assets\images/Screenshot%20(47).png)
-    
-![alt text](assets\images/Screenshot%20(48).png)
+![alt text](assets/images/Screenshot%20(45).png)
+
+![alt text](assets/images/Screenshot%20(46).png)
          
-      
+![alt text](assets/images/Screenshot%20(47).png)
 ## Credits
 
 i would like to credit a couple KU classmates i was able to study with, and the slack program for helping eachother out. 
