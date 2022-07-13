@@ -12,33 +12,31 @@ following the number prompt we have the rest of the character prompts, giving th
 finally we have our loop that actually generates the password depending on the users selections. Then our password.join with empty quotes to display the password in the container for the user to view 
 
 ## Usage 
-
+![alt text](assets/images/Screenshot%20(42).png)
   
-    ![alt text](assets/images/Screenshot%20(42).png)
+
+      
+![alt text](assets\images/Screenshot%20(43).png)
+    
+
+
+![alt text](assets\images/Screenshot%20(44).png)
     
 
       
-    ![alt text](assets\images/Screenshot%20(43).png)
+ ![alt text](assets\images/Screenshot%20(45).png)
     
 
       
-    ![alt text](assets\images/Screenshot%20(44).png)
+![alt text](assets\images/Screenshot%20(46).png)
     
 
       
-    ![alt text](assets\images/Screenshot%20(45).png)
+![alt text](assets\images/Screenshot%20(47).png)
     
 
       
-    ![alt text](assets\images/Screenshot%20(46).png)
-    
-
-      
-    ![alt text](assets\images/Screenshot%20(47).png)
-    
-
-      
-    ![alt text](assets\images/Screenshot%20(48).png)
+![alt text](assets\images/Screenshot%20(48).png)
     
 
 
@@ -57,7 +55,7 @@ https://www.youtube.com/watch?v=x4HUaiazDes&t=44s
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2022] [Matthew Tierney]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
