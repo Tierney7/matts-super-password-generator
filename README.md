@@ -14,31 +14,31 @@ finally we have our loop that actually generates the password depending on the u
 ## Usage 
 
   
-    ![alt text](assets\images\Screenshot (42).png)
+    ![alt text](assets/images/Screenshot%20(42).png)
     
 
       
-    ![alt text](assets\images\Screenshot (43).png)
+    ![alt text](assets\images/Screenshot%20(43).png)
     
 
       
-    ![alt text](assets\images\Screenshot (44).png)
+    ![alt text](assets\images/Screenshot%20(44).png)
     
 
       
-    ![alt text](assets\images\Screenshot (45).png)
+    ![alt text](assets\images/Screenshot%20(45).png)
     
 
       
-    ![alt text](assets\images\Screenshot (46).png)
+    ![alt text](assets\images/Screenshot%20(46).png)
     
 
       
-    ![alt text](assets\images\Screenshot (47).png)
+    ![alt text](assets\images/Screenshot%20(47).png)
     
 
       
-    ![alt text](assets\images\Screenshot (48).png)
+    ![alt text](assets\images/Screenshot%20(48).png)
     
 
 
